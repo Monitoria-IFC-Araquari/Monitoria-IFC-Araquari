@@ -5,7 +5,7 @@ Este perfil do Github é destinado ao armazenamento e registros dos arquivos e a
 Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em Sistemas de Informação e Tecnólogo em Redes de Computadores na elaboração de algoritmos para resolver desafios de programação. Para alcançar esse objetivo, diversas ações foram implementadas, incluindo a criação do próprio respositório no GitHub, um canal no YouTube para postagem de vídeos com resoluções comentadas e videoaulas, e a organização de uma maratona de programação. A baixo seguem os links em anexo das diferentes atividades realizadas durante o projeto de monitoria:
 
 
-<div align="center">
+<div style="display: flex; flex-direction: column; justify-content: space-around;">
     <div>
         <a href="https://www.youtube.com/@monitoriaprogifcaraquari" style="color: black">
             <img height="24rem" src="https://img.shields.io/badge/Youtube-FA4835">
