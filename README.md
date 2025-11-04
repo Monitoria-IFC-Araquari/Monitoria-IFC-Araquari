@@ -8,6 +8,30 @@ Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em
 * [Canal do Youtube](https://www.youtube.com/@monitoriaprogifcaraquari)
 * [Maratona de Programação](https://github.com/Monitoria-IFC-Araquari/maratona-de-programacao)
 
+
+Além das atividades mencionadas acima o projeto também propõe a disbonibilização de um serviçod e atendimento ao aluno de maneira presencial, o atendimento acontece no laboratório B4 nos seguintes dias da semana e horáriso
+
+<table>
+    <thead>
+        <th>Segunda-Feira</th>
+        <th>Terça-Feira</th>
+    </thead>
+    <tr>
+        <td>
+            12:00 - 13:30
+        </td>
+        <td>
+            12:00 - 13:30
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            17:00 - 19:00
+        </td>
+    </tr>
+</table>
+
 Atualmente a última iteração da monitoria que foi realizada ocorreu em 2025. Sendo seus componentes os seguintes:
 * Kennedy Ferreira Araujo- Coordenador
 * Mehran Misaghi - Orientador
