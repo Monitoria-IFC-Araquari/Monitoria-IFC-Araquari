@@ -6,9 +6,14 @@ Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em
 
 
 <div align="center">
-    <img height="32rem" src="https://img.shields.io/badge/Youtube-B22222?link=https%3A%2F%2Fwww.youtube.com%2F%40monitoriaprogifcaraquari">
+    <a href="https://www.youtube.com/@monitoriaprogifcaraquari">
+        <div style="color: seashell; background-color: #B22222">
+            Youtube
+        </div>
+    </a>
 </div>
-* Candal do Youtube
+
+* Canal do Youtube
 * Maratona de Programação
 
 
