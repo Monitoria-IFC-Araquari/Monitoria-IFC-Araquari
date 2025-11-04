@@ -6,12 +6,16 @@ Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em
 
 
 <div align="center">
-    <a href="https://www.youtube.com/@monitoriaprogifcaraquari" style="color: black">
-        <img height="24rem" src="https://img.shields.io/badge/Youtube-FA4835">
-    </a>
-    <a href="https://github.com/Monitoria-IFC-Araquari/maratona-de-programacao" style="color: black">
-        <img height="24rem" src="https://img.shields.io/badge/Maratona%20De%20Programação-FA885C">
-    </a>
+    <div>
+        <a href="https://www.youtube.com/@monitoriaprogifcaraquari" style="color: black">
+            <img height="24rem" src="https://img.shields.io/badge/Youtube-FA4835">
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/Monitoria-IFC-Araquari/maratona-de-programacao" style="color: black">
+            <img height="24rem" src="https://img.shields.io/badge/Maratona%20De%20Programação-FA885C">
+        </a>
+    </div>
 </div>
 
 
