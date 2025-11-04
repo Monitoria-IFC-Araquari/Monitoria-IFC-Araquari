@@ -7,7 +7,7 @@ Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em
 
 <div align="center">
     <a href="https://www.youtube.com/@monitoriaprogifcaraquari">
-        <div style="color: seashell; background-color: #B22222">
+        <div style="color: seashell; background: #B22222">
             Youtube
         </div>
     </a>
