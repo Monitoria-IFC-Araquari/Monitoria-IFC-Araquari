@@ -5,12 +5,13 @@ Este perfil do Github é destinado ao armazenamento e registros dos arquivos e a
 Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em Sistemas de Informação e Tecnólogo em Redes de Computadores na elaboração de algoritmos para resolver desafios de programação. Para alcançar esse objetivo, diversas ações foram implementadas, incluindo a criação do próprio respositório no GitHub, um canal no YouTube para postagem de vídeos com resoluções comentadas e videoaulas, e a organização de uma maratona de programação. A baixo seguem os links em anexo das diferentes atividades realizadas durante o projeto de monitoria:
 
 
-<div>
+<div align="center">
     <a href="https://www.youtube.com/@monitoriaprogifcaraquari" style="color: black">
         <img height="24rem" src="https://img.shields.io/badge/Youtube-FA4835">
     </a>
+    
     <a href="https://github.com/Monitoria-IFC-Araquari/maratona-de-programacao" style="color: black">
-        <img height="24rem" src="https://img.shields.io/badge/Maratona%20De%20Programação-FAA35C">
+        <img height="24rem" src="https://img.shields.io/badge/Maratona%20De%20Programação-FA885C">
     </a>
 </div>
 
