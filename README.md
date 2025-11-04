@@ -6,14 +6,13 @@ Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em
 
 
 <div align="center">
-    <a href="https://www.youtube.com/@monitoriaprogifcaraquari" stylr="text-decoration:none;">
-        <img height="32rem" src="https://img.shields.io/badge/Youtube-B22222">
+    <a href="https://www.youtube.com/@monitoriaprogifcaraquari">
+        <img height="24rem" src="https://img.shields.io/badge/Youtube-FA4835">
+    </a>
+    <a href="https://github.com/Monitoria-IFC-Araquari/maratona-de-programacao">
+        <img height="24rem" src="https://img.shields.io/badge/Maratona%20De%20Programação-FAA35C">
     </a>
 </div>
-
-* Canal do Youtube
-* Maratona de Programação
-
 
 
 Atualmente a última iteração da monitoria que foi realizada ocorreu em 2025. Sendo seus componentes os seguintes:
