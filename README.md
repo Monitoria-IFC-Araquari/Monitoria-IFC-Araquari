@@ -251,9 +251,6 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
             </th>
             <th>
                 <table>
-                    <caption>
-                        Durante a aplicação da Segunda Fase da OBI, houve um apagão no campus IFC Araquari resultando na impossibilidade de se aplicar a prova
-                    </caption>
                     <thead>
                         <th></th>
                         <th>
@@ -343,6 +340,9 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
             </th>
         </tr>
     </table>
+    <h6>
+        *Durante a aplicação da Segunda Fase da OBI, houve um apagão no campus IFC Araquari resultando na impossibilidade de se aplicar para a maioria dos alunos.
+    </h6>
 
     
 </div>
