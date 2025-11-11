@@ -9,7 +9,7 @@ Este projeto visa aprimorar a habilidade dos alunos dos cursos de Bacharelado em
 * [Maratona de Programação](https://github.com/Monitoria-IFC-Araquari/maratona-de-programacao)
 
 
-Além das atividades mencionadas acima o projeto também propõe a disbonibilização de um serviçod e atendimento ao aluno de maneira presencial, o atendimento acontece no laboratório B4 nos seguintes dias da semana e horáriso
+Além das atividades mencionadas acima o projeto também propõe a disbonibilização de um serviços e atendimento ao aluno de maneira presencial, o atendimento acontece no laboratório B4 nos seguintes dias da semana e horários
 <div align="center">
     <table>
         <thead>
@@ -32,6 +32,71 @@ Além das atividades mencionadas acima o projeto também propõe a disbonibiliza
         </tr>
     </table>
 </div>
+
+## Competições
+Dentre as atividades desenvolvidas pelo projeto, algumas dela visavam incentivar os alunos a participar de programação competitiva, de modo que fosse possível aumentar sua independencia como estudante e sua capacidade de trabalho em equipe.
+
+### OBI
+Como parte desse esforço os alunos foram incentivados à participar da Olímpiada Brasileira de Informática, os estudantes foram preparados para a participação através de videoaulas e transmissões via Google Meet. Os resultados de ambos os anos seguem abaixo:
+
+<div class="center">
+    <table>
+        <thead>
+            <th>
+                Fase 1
+            </th>
+            <th>
+                Fase 2
+            </th>
+            <th>
+                Fase 3
+            </th>
+        </thead>
+        <tr>
+            <table>
+                <thead>
+                    <th>
+                        Nivel
+                    </th>
+                    <th>
+                        Inscritos
+                    </th>
+                    <th>
+                        Participação
+                    </th>
+                </thead>
+                <tr>
+                    <th>
+                        P1
+                    </th>
+                    <th>
+                        P2
+                    </th>
+                    <th>
+                        PS
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        2
+                    </th>
+                    <th>
+                        13
+                    </th>
+                    <th>
+                        0
+                    </th>
+                </tr>
+            </table>
+        </tr>
+    </table>
+
+    
+</div>
+
+
+
+### Maratona de Programação
 
 Atualmente a última iteração da monitoria que foi realizada ocorreu em 2025. Sendo seus componentes os seguintes:
 * Kennedy Ferreira Araujo- Coordenador
