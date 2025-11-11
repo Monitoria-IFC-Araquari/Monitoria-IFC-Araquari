@@ -70,21 +70,21 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                         P1
                     </th>
                     <th>
-                        P2
+                        2
                     </th>
                     <th>
-                        PS
+                        2
                     </th>
                 </tr>
                 <tr>
                     <th>
-                        2
+                        P2
                     </th>
                     <th>
                         13
                     </th>
                     <th>
-                        0
+                        7
                     </th>
                 </tr>
             </table>
