@@ -57,43 +57,84 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                 <table>
                     <thead>
                         <th>
-                            Nivel
                         </th>
-                        <th>
-                            Inscritos
-                        </th>
-                        <th>
-                            Participantes
-                        </th>
-                    </thead>
-                    <tr>
                         <th>
                             P1
                         </th>
                         <th>
-                            2
+                            P2
                         </th>
                         <th>
-                            2
+                            PS
                         </th>
-                    </tr>
+                    </thead>
                     <tr>
                         <th>
-                            P2
+                            Inscritos
+                        </th>
+                        <th>
+                            2
                         </th>
                         <th>
                             13
                         </th>
                         <th>
+                            0
+                        </th>
+                    </tr>
+                     <tr>
+                        <th>
+                            Participantes
+                        </th>
+                        <th>
+                            2
+                        </th>
+                        <th>
                             7
                         </th>
+                        <th>
+                            0
+                        </th>
                     </tr>
-                    <tr>
+                </table>
+            </th>
+            <th>
+                <table>
+                    <thead>
+                        <th></th>
+                        <th>
+                            P1
+                        </th>
+                        <th>
+                            P2
+                        </th>
                         <th>
                             PS
                         </th>
+                    </thead>
+                    <tr>
+                        <th>
+                            Classificados
+                        </th>
+                        <th>
+                            2
+                        </th>
+                        <th>
+                            3
+                        </th>
                         <th>
                             0
+                        </th>
+                    </tr>
+                     <tr>
+                        <th>
+                            Participantes
+                        </th>
+                        <th>
+                            2
+                        </th>
+                        <th>
+                            3
                         </th>
                         <th>
                             0
@@ -105,77 +146,23 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                 <table>
                     <thead>
                         <th>
-                            Nivel
                         </th>
-                        <th>
-                            Classificados
-                        </th>
-                        <th>
-                            Participantes
-                        </th>
-                    </thead>
-                    <tr>
                         <th>
                             P1
                         </th>
                         <th>
-                            2
-                        </th>
-                        <th>
-                            2
-                        </th>
-                    </tr>
-                    <tr>
-                        <th>
                             P2
                         </th>
                         <th>
-                            3
-                        </th>
-                        <th>
-                            3
-                        </th>
-                    </tr>
-                    <tr>
-                        <th>
                             PS
-                        </th>
-                        <th>
-                            0
-                        </th>
-                        <th>
-                            0
-                        </th>
-                    </tr>
-                </table>
-            </th>
-            <th>
-                <table>
-                    <thead>
-                        <th>
-                            Nivel
-                        </th>
-                        <th>
-                            Classificados
-                        </th>
-                        <th>
-                            Participantes
                         </th>
                     </thead>
                     <tr>
                         <th>
-                            P1
+                            Classificados
                         </th>
                         <th>
                             2
-                        </th>
-                        <th>
-                            2
-                        </th>
-                    </tr>
-                    <tr>
-                        <th>
-                            P2
                         </th>
                         <th>
                             0
@@ -184,9 +171,12 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                             0
                         </th>
                     </tr>
-                    <tr>
+                     <tr>
                         <th>
-                            PS
+                            Participantes
+                        </th>
+                        <th>
+                            2
                         </th>
                         <th>
                             0
