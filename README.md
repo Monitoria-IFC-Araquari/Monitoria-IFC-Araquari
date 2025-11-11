@@ -100,7 +100,7 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                         </th>
                     </tr>
                 </table>
-            <th>
+            </th>
             <th>
                 <table>
                     <thead>
@@ -148,7 +148,7 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                         </th>
                     </tr>
                 </table>
-            <th>
+            </th>
             <th>
                 <table>
                     <thead>
@@ -196,7 +196,7 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                         </th>
                     </tr>
                 </table>
-            <th>
+            </th>
         </tr>
     </table>
 
