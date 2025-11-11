@@ -40,6 +40,7 @@ Dentre as atividades desenvolvidas pelo projeto, algumas dela visavam incentivar
 Como parte desse esforço os alunos foram incentivados à participar da Olímpiada Brasileira de Informática, os estudantes foram preparados para a participação através de videoaulas e transmissões via Google Meet. Os resultados de ambos os anos seguem abaixo:
 
 <div align="center">
+    <h4> 2024 </h4>
     <table>
         <thead>
             <th>
@@ -180,6 +181,159 @@ Como parte desse esforço os alunos foram incentivados à participar da Olímpia
                         </th>
                         <th>
                             0
+                        </th>
+                        <th>
+                            0
+                        </th>
+                    </tr>
+                </table>
+            </th>
+        </tr>
+    </table>
+    <h4> 2025 </h4>
+    <table>
+        <thead>
+            <th>
+                Fase 1
+            </th>
+            <th>
+                Fase 2
+            </th>
+            <th>
+                Fase 3
+            </th>
+        </thead>
+        <tr>
+            <th>
+                <table>
+                    <thead>
+                        <th>
+                        </th>
+                        <th>
+                            P1
+                        </th>
+                        <th>
+                            P2
+                        </th>
+                        <th>
+                            PS
+                        </th>
+                    </thead>
+                    <tr>
+                        <th>
+                            Inscritos
+                        </th>
+                        <th>
+                            76
+                        </th>
+                        <th>
+                            44
+                        </th>
+                        <th>
+                            21
+                        </th>
+                    </tr>
+                     <tr>
+                        <th>
+                            Participantes
+                        </th>
+                        <th>
+                            70
+                        </th>
+                        <th>
+                            31
+                        </th>
+                        <th>
+                            17
+                        </th>
+                    </tr>
+                </table>
+            </th>
+            <th>
+                <table>
+                    <caption>
+                        Durante a aplicação da Segunda Fase da OBI, houve um apagão no campus IFC Araquari resultando na impossibilidade de se aplicar a prova
+                    </caption>
+                    <thead>
+                        <th></th>
+                        <th>
+                            P1
+                        </th>
+                        <th>
+                            P2
+                        </th>
+                        <th>
+                            PS
+                        </th>
+                    </thead>
+                    <tr>
+                        <th>
+                            Classificados
+                        </th>
+                        <th>
+                            15
+                        </th>
+                        <th>
+                            8
+                        </th>
+                        <th>
+                            4
+                        </th>
+                    </tr>
+                     <tr>
+                        <th>
+                            Participantes*
+                        </th>
+                        <th>
+                            0
+                        </th>
+                        <th>
+                            2
+                        </th>
+                        <th>
+                            0
+                        </th>
+                    </tr>
+                </table>
+            </th>
+            <th>
+                <table>
+                    <thead>
+                        <th>
+                        </th>
+                        <th>
+                            P1
+                        </th>
+                        <th>
+                            P2
+                        </th>
+                        <th>
+                            PS
+                        </th>
+                    </thead>
+                    <tr>
+                        <th>
+                            Classificados
+                        </th>
+                        <th>
+                            0
+                        </th>
+                        <th>
+                            1
+                        </th>
+                        <th>
+                            0
+                        </th>
+                    </tr>
+                     <tr>
+                        <th>
+                            Participantes
+                        </th>
+                        <th>
+                            0
+                        </th>
+                        <th>
+                            1
                         </th>
                         <th>
                             0
